@@ -2,18 +2,27 @@
 
 Sistema de comercio electrónico de accesorios, desarrollado como proyecto final de la asignatura **Modelado y Gestión de Base de Datos**.
 
+## GitHub Organization
+
+| Campo              | Valor                                                        |
+|--------------------|--------------------------------------------------------------|
+| Organización       | [MGBD-2026](https://github.com/MGBD-2026)                   |
+| Repositorio docs   | [MGBD-2026/project-docs](https://github.com/MGBD-2026/project-docs) |
+| Repositorio BD     | [MGBD-2026/project-bd](https://github.com/MGBD-2026/project-bd)     |
+| Profesor / revisor | `ariel5253` (agregado como miembro de la organización)       |
+
+## Equipo
+
+| Integrante      | Rol              | Responsabilidad principal                              |
+|-----------------|------------------|--------------------------------------------------------|
+| Sergio Losada   | Arquitecto de BD | DDL, DML, migraciones Liquibase, Docker, rollback, objetos SQL |
+
 ## Repositorios
 
 | Repositorio    | Propósito                                      |
 |----------------|------------------------------------------------|
 | `project-docs` | Documentación: modelos, requerimientos, evidencias |
 | `project-bd`   | Base de datos: DDL, DML, Liquibase, Docker     |
-
-## Equipo
-
-| Integrante | Rol              | Responsabilidad principal     |
-|------------|------------------|-------------------------------|
-| JSA        | Arquitecto de BD | DDL, migraciones, Docker      |
 
 ## Índice de documentos
 

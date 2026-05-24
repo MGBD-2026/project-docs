@@ -66,6 +66,6 @@ El `precio_unitario` en `detalle_pedido` e `item_carrito` se guarda al momento d
 | Datos volumétricos          | 130+ reg.| `02_dml/00_inserts/002_volumetric_data.sql`     |
 | Consultas JOIN (6+ tablas)  | 3        | `scripts/consultas-join-validacion.sql`         |
 | Políticas RLS               | 12       | `03_dcl/02_policies/001_rls_policies.sql`       |
-| Scripts rollback            | 17       | `05_rollbacks/`                                 |
+| Scripts rollback            | 20       | `05_rollbacks/`                                 |
 | Ambientes Docker            | 3        | `docker-compose.yml`, `docker-compose.prod.yml` |
-| Changesets Liquibase        | 17       | `changelog-master.yaml` + subcarpetas           |
+| Changesets Liquibase        | 20       | `changelog-master.yaml` + subcarpetas           |
